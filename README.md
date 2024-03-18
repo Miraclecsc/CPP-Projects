@@ -1,6 +1,6 @@
 # CPP-Projects
 C++ Projects Practices Summary
-### RayTracing
+### [RayTracing](RayTracing/)
 基于C++实现的简易光线追踪（RayTracing）模拟器。
 ### PonyCompiler
 C++实现的解释性语言（Pony）的简易编译器。借助MLIR编译框架完成。
