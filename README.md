@@ -18,3 +18,5 @@ C++完成《CSAPP》中经典labs。
 使用C++ socket编程，实现计算机网络编程的练习（traceroute、grpc等）。
 ### [Image-Emphasize](Image-Emphasize/)
 C++实现的基于卷积操作的图像灰度处理、边缘锐化等功能的练习。
+### [CPP-Exercise](CPP-Exercise/)
+C++各类编程任务训练（文件读写、字符串输入输出parsing、较复杂的计算器功能实现、dp等经典算法实现等）。
